@@ -132,7 +132,7 @@
                     /**
                      * Auto generated method signature
                      * Serviço destinado ao atendimento de solicitações de download de Notas Fiscais Eletrônicas por seus destinatários.
-                     * @see com.wsdl.gerado.NfeDownloadNF#nfeDownloadNF
+                     * TODO verificar a origem dessa referencia e vincular com arroba see 'com.wsdl.gerado.NfeDownloadNF#nfeDownloadNF'
                      * @param nfeDadosMsg0
                     
                      * @param nfeCabecMsg1
@@ -266,7 +266,7 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * Serviço destinado ao atendimento de solicitações de download de Notas Fiscais Eletrônicas por seus destinatários.
-                * @see com.wsdl.gerado.NfeDownloadNF#startnfeDownloadNF
+                * TODO verificar a origem desta classe e vincular com o doclet see 'com.wsdl.gerado.NfeDownloadNF#startnfeDownloadNF'
                     * @param nfeDadosMsg0
                 
                     * @param nfeCabecMsg1
